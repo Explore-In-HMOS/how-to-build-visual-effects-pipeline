@@ -2,7 +2,7 @@
 
 # How to Build Visual Effects Pipeline
 
-How to Build Visual Effects Pipeline is a HarmonyOS NEXT wearable codelab that demonstrates a compact ArkGraphics2D image-effects compositor using shaders, color filters, image filters, mask glows, and text shadows on a round watch screen.
+How to Build Visual Effects Pipeline is a HarmonyOS wearable codelab that demonstrates a compact ArkGraphics2D image-effects compositor using shaders, color filters, image filters, mask glows, and text shadows on a round watch screen.
 
 # Preview
 
